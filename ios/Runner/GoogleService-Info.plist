@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyBYVfirxLrws9zzjJaCICtc93b4XeYU3i4</string>
+	<string>${dotenv.env['IOS_API']}</string>
 	<key>GCM_SENDER_ID</key>
 	<string>281116802781</string>
 	<key>PLIST_VERSION</key>
